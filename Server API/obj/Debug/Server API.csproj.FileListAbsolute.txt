@@ -1,0 +1,8 @@
+J:\Liftshare\Server API\bin\Debug\Server API.exe.config
+J:\Liftshare\Server API\bin\Debug\Server API.exe
+J:\Liftshare\Server API\bin\Debug\Server API.pdb
+J:\Liftshare\Server API\obj\Debug\Server API.csprojResolveAssemblyReference.cache
+J:\Liftshare\Server API\obj\Debug\Server API.exe
+J:\Liftshare\Server API\obj\Debug\Server API.pdb
+J:\Liftshare\Server API\bin\Debug\Newtonsoft.Json.dll
+J:\Liftshare\Server API\bin\Debug\Newtonsoft.Json.xml
