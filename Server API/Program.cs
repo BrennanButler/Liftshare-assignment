@@ -20,6 +20,8 @@ namespace Server_API
             {
                 JObject origin = JObject.Parse(data);
 
+                // Access the correct element by going through the arrays of data within the Json
+                // The index will always be 0
                 MapData map = new MapData
                 {
                     latitude = new List<double>
